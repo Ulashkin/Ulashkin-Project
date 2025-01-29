@@ -1,6 +1,7 @@
 using System.Net.Sockets;
 using System.Net;
 using System.Text;
+using System.Windows.Forms;
 
 namespace Client
 {
@@ -13,6 +14,9 @@ namespace Client
             _ = Listener();
 
         }
+
+
+
 
 
         async Task Listener()
@@ -35,9 +39,8 @@ namespace Client
             }
         }
 
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
+
+
+
     }
 }

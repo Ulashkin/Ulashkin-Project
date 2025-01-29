@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергій\\OneDrive\\Рабочий стол\\Нова папка (3)\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\Сергій\\Ulashkin-Project\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\Сергій\\OneDrive\\Рабочий стол\\Нова папка (3)\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\Сергій\\Ulashkin-Project\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\Сергій\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергій\\OneDrive\\Рабочий стол\\Нова папка (3)\\Client\\obj\\",
+      "outputPath": "C:\\Users\\Сергій\\Ulashkin-Project\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
